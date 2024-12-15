@@ -36,31 +36,22 @@ This project focuses on analyzing the sentiments expressed in customer reviews o
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/amazon-sentiment-analysis.git
-Navigate to the project directory:
-
-bash
-Copier le code
-cd amazon-sentiment-analysis
-Install the required dependencies:
-
-bash
-Copier le code
-pip install -r requirements.txt
-Usage
+2. Navigate to the project directory:
+   ```bash
+   cd amazon-sentiment-analysis
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Usage
 Run the main script to scrape Amazon reviews and perform sentiment analysis:
+   ```bash
+   python sentiment_analysis.py
+5. View the results in the generated plots and explore the insights in the output files.
 
-bash
-Copier le code
-python sentiment_analysis.py
-View the results in the generated plots and explore the insights in the output files.
-
-Conclusion
+##Conclusion
 This project provides a powerful way to analyze customer sentiment from Amazon reviews. It can be used by businesses to better understand customer feedback and improve their products and services.
 
-css
-Copier le code
 
-This markdown format will display the content properly on GitHub, making it easy to follow and understand the structure of your project!
 
 
 
